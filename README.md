@@ -1,3 +1,5 @@
+<img src="Screenshots/Screenshot1">
+
 # CalculatorJava
 -- English
 This is a calculator i made with the programming language Java.
