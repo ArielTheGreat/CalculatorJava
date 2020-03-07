@@ -1,8 +1,8 @@
-<img src="Screenshots/Screenshot1">
+<img src="Screenshots/Screenshot1.png">
 
 # CalculatorJava
 -- English
-This is a calculator i made with the programming language Java.
+This is a calculator i made with the programming language Java. \n
 Beware all calculator around the world, something BIIGGGGG is COMING!
 -- Español
 Esta es una calculadora hecha con el lenguaje de programación Java.
